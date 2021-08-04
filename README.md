@@ -1,8 +1,8 @@
 ### Hi, I'm Andrew 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanzanero&count_private=true&show_icons=true&theme=cobalt)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanzanero&langs_count=4&count_private=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+|     |     |
+| --- | --- |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanzanero&count_private=true&show_icons=true&theme=cobalt) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanzanero&langs_count=4&count_private=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) |
 
 <!--
 **amanzanero/amanzanero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
